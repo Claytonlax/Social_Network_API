@@ -7,6 +7,7 @@ This application is a social media app. It allows the users to create an account
  ## Installation  
 
 To install, clone down the github repo from : https://github.com/Claytonlax/Social_Network_API 
+Then, open an intergrated terminal from the package.json file and run npm install, verifying you have all the necessary packages installed.
 
 ## Usage 
 
